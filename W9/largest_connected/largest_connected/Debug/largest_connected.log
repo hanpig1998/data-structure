@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/5/10 20:57:44。
+     1>项目“C:\Users\apple1\Desktop\OJ hw\data-structure\W9\largest_connected\largest_connected\largest_connected.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\largest_connected.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt largest_connected.cpp
+         largest_connected.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\apple1\Desktop\OJ hw\data-structure\W9\largest_connected\Debug\largest_connected.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\apple1\Desktop\OJ hw\data-structure\W9\largest_connected\Debug\largest_connected.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\apple1\Desktop\OJ hw\data-structure\W9\largest_connected\Debug\largest_connected.lib" /MACHINE:X86 Debug\largest_connected.obj
+         largest_connected.vcxproj -> C:\Users\apple1\Desktop\OJ hw\data-structure\W9\largest_connected\Debug\largest_connected.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\largest_connected.unsuccessfulbuild”。
+         正在对“Debug\largest_connected.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\apple1\Desktop\OJ hw\data-structure\W9\largest_connected\largest_connected\largest_connected.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.66
